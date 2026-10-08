@@ -1,0 +1,43 @@
+$MILF mint pack  (paste into https://pump.fun/create)
+=====================================================
+
+Name
+MILF
+
+Ticker
+MILF
+
+Description
+The prime model on Solana. An AI milf and her cast.
+
+$MILF. 1B supply, 0 tax.
+
+Website
+https://milf-token.pages.dev
+
+Twitter
+(paste when you have it. cannot edit after create)
+
+Telegram
+(paste when you have it. cannot edit after create)
+
+FILES
+-----
+Image (required)
+  mint/token.png
+
+Banner (optional, add NOW, cannot edit later)
+  mint/banner.png
+
+Story
+  mint/story.jpg
+
+After the coin is created
+-------------------------
+1. Copy the mint address (CA).
+2. Put it in script.js (CONTRACT) and in copy/COPY.md.
+3. DexScreener header: socials/pack/07-dex-banner-1500x500.png
+4. X profile: socials/pack/01-pfp.jpg
+5. X header: socials/pack/02-x-banner.jpg
+
+Meme. NFA. DYOR.
