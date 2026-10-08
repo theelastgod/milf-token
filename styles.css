@@ -91,7 +91,6 @@ main, .nav, .foot, .marquee { position: relative; z-index: 1; }
   height: 36px;
   border-radius: 50%;
   object-fit: cover;
-  border: 1px solid var(--gold);
 }
 .links {
   display: flex;
@@ -248,7 +247,6 @@ main, .nav, .foot, .marquee { position: relative; z-index: 1; }
   height: 36px;
   border-radius: 50%;
   object-fit: cover;
-  border: 1px solid var(--gold);
 }
 .thread {
   flex: 1;
