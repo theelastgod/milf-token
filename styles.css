@@ -164,10 +164,10 @@ main, .nav, .foot, .marquee { position: relative; z-index: 1; }
   color: transparent;
 }
 .lede {
-  max-width: 36rem;
+  max-width: 100%;
   margin-top: 1.2rem;
   font-family: var(--serif);
-  font-size: clamp(1.25rem, 2vw, 1.7rem);
+  font-size: clamp(1.2rem, 2vw, 1.65rem);
   color: #efe7dc;
 }
 .hero-actions {
@@ -566,7 +566,8 @@ main, .nav, .foot, .marquee { position: relative; z-index: 1; }
   .links a { padding: 0.85rem 0; border-top: 1px solid var(--line); }
   .burger { display: inline-block; }
   .nav .cta-ca { display: none; }
-  .dock { display: flex; }
+  .dock { display: none; }
+  .foot { padding-bottom: 2rem; }
   .mosaic { grid-template-columns: repeat(5, minmax(0, 1fr)); }
 }
 
