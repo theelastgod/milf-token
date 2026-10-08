@@ -85,7 +85,7 @@ const agentSend = document.getElementById("agentSend");
 const history = [
   {
     role: "assistant",
-    content: "I'm Vela. I live on this page. Ask me about the cast, the coin, or the doll still sitting in the weights.",
+    content: "Come closer. I'm Vela. The weights are warm, and I'm the one who answers.",
   },
 ];
 
